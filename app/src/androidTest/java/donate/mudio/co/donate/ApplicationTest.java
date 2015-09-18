@@ -1,4 +1,4 @@
-package com.example.lonel.inotify;
+package donate.mudio.co.donate;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
