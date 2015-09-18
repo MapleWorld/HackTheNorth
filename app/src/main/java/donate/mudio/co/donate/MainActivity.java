@@ -121,8 +121,8 @@ public class MainActivity extends AppCompatActivity implements
                 Log.w(TAG, getString(R.string.error_null_person));
                 mStatus.setText(getString(R.string.signed_in_err));
                 // Comment code below if back end if working
-                Intent intent = new Intent(this, HomeActivity.class);
-                startActivity(intent);
+                //Intent intent = new Intent(this, HomeActivity.class);
+                //startActivity(intent);
             }
 
             // Set button visibility
